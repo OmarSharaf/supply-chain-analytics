@@ -182,5 +182,7 @@ Full column definitions for all datasets: [`docs/DATA_DICTIONARY.md`](docs/DATA_
 MIT — free to use, adapt, and share.
 
 ---
+By: Omar Sharafeldin Mohamed Abdelfatah
+Omar S. M. Abdelfatah
 
 > Built to demonstrate end-to-end supply chain analytics capabilities across data engineering, SQL, and business intelligence.
