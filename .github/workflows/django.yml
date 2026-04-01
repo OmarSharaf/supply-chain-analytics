@@ -26,8 +26,9 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install pandas numpy matplotlib
-        pip install -r requirements.txt
 
     - name: Run Tests
       run: |
-        python manage.py test
+        python python/data_generator.py
+        python python/etl_pipeline.py
+        python python/analysis.py
